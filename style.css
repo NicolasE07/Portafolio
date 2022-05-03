@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.header-nav {
+    background-color: aqua;
+    height: 100px;   
+}
+
+.nav-div{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-div__item{
+    list-style: none;
+}
+
+.nav-div__item a {
+    text-decoration: none;
+}
+.nav-div a{
+    text-decoration: none;
+}
+
